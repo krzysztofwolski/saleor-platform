@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:mirumee/saleor.git
+[submodule "storefront"]
+	path = storefront
+	url = git@github.com:mirumee/saleor-storefront.git
+[submodule "dashboard"]
+	path = dashboard
+	url = git@github.com:mirumee/saleor-dashboard.git
